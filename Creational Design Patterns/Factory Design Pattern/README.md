@@ -1,2 +1,2 @@
 # DesignPatternLearning
-From Keerti Purswani Youtube Channel
+Factory, Builder, observer patterns from Keerti Purswani Youtube Channel
